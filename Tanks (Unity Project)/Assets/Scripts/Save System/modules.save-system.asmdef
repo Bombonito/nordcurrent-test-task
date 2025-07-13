@@ -1,0 +1,4 @@
+{
+	"name": "modules.save-system",
+	"references":[ "GUID:0d8beb7f090555447a6cf5ce9e54dbb4", "GUID:a69f806bf61402a469a9ac2e64944c76", "GUID:d503a244f0a26f94d9368ffb65f7d8ca", "GUID:d9b3c0f0c49a5f04aa0b61c69dcfb0fe" ]
+}

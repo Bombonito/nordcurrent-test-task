@@ -1,0 +1,20 @@
+{
+    "name": "modules.tank.installer",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4",
+        "GUID:e35aa10160547eb478d5ffb7838c9468",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:d9b3c0f0c49a5f04aa0b61c69dcfb0fe",
+        "GUID:ac559cf233f17274ba4239feaa297acb"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,18 @@
+{
+    "name": "modules.tank.locomotion",
+    "rootNamespace": "",
+    "references": [
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4",
+        "GUID:d9b3c0f0c49a5f04aa0b61c69dcfb0fe"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
